@@ -7,8 +7,15 @@
 ## Non-job stuff
  - php apologist
  - javascript learner
+ - python/django learner
  - docker learner
  - arduino
- - Wordpress
- - Ghost
+ - wordpress
+ - ghost
+ - matomo
+ - linux
+ - mysql
+ - apache and nginx
  - networking
+
+## Computers are terrible.
